@@ -7,10 +7,10 @@ article{
     align-items: center;
     flex-wrap: wrap;
 }
-.intro_video{
+/* .intro_video{
     width: 55%;
-}
-.intro_video iframe{
+} */
+.intro_video video{
     width: 100%;
     height: 22.5rem;
     /* border: 2px solid black; */
